@@ -20,12 +20,7 @@ Focused on turning creativity into impact, with a bit of chaos and humor along t
 🎨 Palette → `#780000  #c1121f  #fdf0d5  #003049  #669bbc`
 
 ---
-
-### ⚙️ How I Use ChatGPT
-💬 For **branding, design, startup strategy, writing, and creative ideation.**  
-Also as my go-to co-pilot for **content, problem-solving, and reflection.**
-
----
+ 
 
 ### 🏆 Highlights
 - 🥇 **3× National-Level Hackathon Winner**  
