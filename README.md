@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Real (Dhanush Gamidi)
+# 👋 Hey,  Dhanush Gamidi
 
 🚀 **Entrepreneur | AI Enthusiast | 3× National-Level Hackathon Winner | Designer @ SRM University AP**
 
