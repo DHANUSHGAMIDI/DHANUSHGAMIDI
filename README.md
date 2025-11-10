@@ -14,18 +14,13 @@ Focused on turning creativity into impact, with a bit of chaos and humor along t
  
 ---
 
-### 🎨 My Aesthetic
-> Bold • Animated • Minimal • Consistent  
-
-🎨 Palette → `#780000  #c1121f  #fdf0d5  #003049  #669bbc`
-
----
+ 
  
 
 ### 🏆 Highlights
 - 🥇 **3× National-Level Hackathon Winner**  
 - 🧠 **AI & Innovation Enthusiast**  
-- 🎤 **Active contributor to SRM’s entrepreneurial ecosystem**  
+- 🎤 ** president of SRM’s entrepreneurial ecosystem**  
 
 ---
  
