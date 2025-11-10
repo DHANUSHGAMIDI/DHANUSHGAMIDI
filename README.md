@@ -1,16 +1,38 @@
-## Hi there 👋
+# 👋 Hey, I'm Real (Dhanush Gamidi)
 
-<!--
-**DHANUSHGAMIDI/DHANUSHGAMIDI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Entrepreneur | AI Enthusiast | 3× National-Level Hackathon Winner | Designer @ SRM University AP**
 
-Here are some ideas to get you started:
+I build ideas that blend **technology, design, and storytelling** — from startup hackathons to web products that actually feel alive.  
+Focused on turning creativity into impact, with a bit of chaos and humor along the way.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🧩 What I Do
+- 💻 Build modern web experiences (HTML • CSS • JS • Tailwind)  
+- 🎟️ Founder of **Festzzy** — SRM’s exclusive fest ticketing platform  
+- 🎙️ Creator of **Voice of SRM AP** — A student podcast with purpose  
+ 
+---
+
+### 🎨 My Aesthetic
+> Bold • Animated • Minimal • Consistent  
+
+🎨 Palette → `#780000  #c1121f  #fdf0d5  #003049  #669bbc`
+
+---
+
+### ⚙️ How I Use ChatGPT
+💬 For **branding, design, startup strategy, writing, and creative ideation.**  
+Also as my go-to co-pilot for **content, problem-solving, and reflection.**
+
+---
+
+### 🏆 Highlights
+- 🥇 **3× National-Level Hackathon Winner**  
+- 🧠 **AI & Innovation Enthusiast**  
+- 🎤 **Active contributor to SRM’s entrepreneurial ecosystem**  
+
+---
+ 
+
+⭐ *“Make it memorable — not just functional.”*
