@@ -1,4 +1,4 @@
-#  Hey,  Dhanush Gamidi
+#  Hey,  It's Dhanush Gamidi
 
 🚀 **Entrepreneur | AI Enthusiast | 3× National-Level Hackathon Winner |  @ SRM University AP**
 
