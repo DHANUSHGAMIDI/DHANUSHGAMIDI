@@ -9,8 +9,7 @@ Focused on turning creativity into impact, with a bit of chaos and humor along t
 
 ### 🧩 What I Do
 - 💻 Build modern web experiences (HTML • CSS • JS • Tailwind)  
-- 🎟️ Founder of **Festzzy** — Exclusive fest ticketing platform  
-- 🎙️ Creator of **Voice of SRM AP** — A student podcast with purpose  
+- 🎟️ Founder of **Festzzy** — Exclusive fest ticketing platform   
  
 ---
 
