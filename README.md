@@ -17,7 +17,7 @@ Focused on turning creativity into impact, with a bit of chaos and humor along t
  
 
 ### 🏆 Highlights
-- 🥇 **3× National-Level Hackathon Winner**  
+- 🥇 **5× National-Level Hackathon Winner**  
 - 🧠 **AI & Innovation Enthusiast**  
 - 🎤 ** president of SRM’s entrepreneurial ecosystem**  
 
